@@ -1,1 +1,1 @@
-This is the Birthday card app from Google's tutorial 
+This is the Birthday card app codelab from developer.android.com 
